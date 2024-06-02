@@ -1,0 +1,38 @@
+bicyclecrunch-side
+burpeetest-face
+burpeetest-side
+crosslunge-face
+crosslunge-side
+crunch-side
+goodmorning-side
+hipthrust-side
+kneepushup-side
+lyinglegraise-side
+plank-side
+pushup-side
+scissorcross-side
+sidelunge-face
+sidelunge-side
+standingkneeup-face
+standingkneeup-side
+standingsidecrunch-face
+standingsidecrunch-side
+stepbackwarddynamiclunge-side
+stepforwarddynamiclunge-side
+
+바이시클 크런치 >> 측면 
+버피테스트 >> 정면,  측면
+크로스 런지 >> 정면, 측면 
+크런치 >> 측면 
+굿모닝 >>  측면 
+힙쓰러스트 >> 측면
+니푸쉬업    >> 측면
+라잉 레그레이즈 >> 측면 
+플랭크 >> 측면 
+푸쉬업      >> 측면  
+시저크로스 >> 측면 
+사이드 런지 >> 정면, 측면
+스탠딩 니업 >> 정면, 측면 
+스탠딩 사이드 크런치 >> 정면, 측면 
+스텝백워드 다이나믹 런지 >> 측면 
+스텝포워드 다이나믹 런지 >> 측면 
